@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/purushothamr01/purushothamr01/blob/f4380332df3451f9d67afa4d63a692f0eec668ab/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.gif" width="900"/>
+</div>
+
 # 🔥 PayloadForge
 
 **Curated wordlists and exploitation payloads** collected from publicly available internet sources for **web application penetration testing**, **bug bounty hunting**, and **ethical hacking learning**.
